@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+#showing1, #showing2, #showing3, #showing4, #showing5 {
+  display: none;
+}
+
+#clickable1, #clickable2, #clickable3, #clickable4, #clickable5 {
+  cursor: pointer;
+}
+
+#clickable1:hover, #clickable2:hover, #clickable3:hover, #clickable4:hover, #clickable5:hover {
+  text-decoration: underline;
+  color: #0088cc;
+}
